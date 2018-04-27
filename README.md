@@ -14,6 +14,7 @@
 8. Advanced: Dynamic Toolkits, Dynamic Programming, and the BiLSTM-CRF
   * Example: Bi-LSTM Conditional Random Field for named-entity recognition
   * Exercise: A new loss function for discriminative tagging
+  
   https://createmomo.github.io/2017/11/24/CRF-Layer-on-the-Top-of-BiLSTM-6/
 
 # What is this tutorial?
